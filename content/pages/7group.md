@@ -6,9 +6,11 @@ Category: Check
 <div class = "small italics">
 Return to <a href="/pages/research.html">Research</a>
 </div>
-<img src="/images/group2023Apr_crop1a.jpg" alt="" style="height: 400px" title="The Poduska group">
-<!--<img src="groupwalk2022.jpg" title="The Poduska Group and Friends, August 2022" alt="The Poduska Group and Friends, August 2022" height="310">-->
-<hr>
+<br>
+
+<img src="/images/grp_photo2023small.jpeg" title="The Poduska group"height="400">
+
+<br>
 
 <br>
 Students make this research possible! My research group benefits from students with diverse academic backgrounds, including physics, applied math, chemistry, engineering, earth science, and archaeology. Some students have had extensive research experience, while others are experiencing the thrills and challenges of research for the first time. 
