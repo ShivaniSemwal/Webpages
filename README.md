@@ -4,7 +4,7 @@
 
 2. Clone this repositry on your computer.
 
-3. Change the working directory in VS Code to the directory where the "Website" folder is located.
+3. Change the working directory in VS Code to the directory where the "Webpages" folder is located.
 
 4. Open the terminal in VS Code.
 
