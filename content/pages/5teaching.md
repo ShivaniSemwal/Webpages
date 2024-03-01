@@ -7,27 +7,27 @@ Category: Check
 <li>PHYS 3900 Experimental Physics I (Winter 2023)</li>
 
 <h2>Past courses</h2>
-<li><a href="/pages/physics-1051.html">PHYS 1051</a> General Physics II: Oscillations, Waves, Electromagnetism </li>
+<li>PHYS 1051</a> General Physics II: Oscillations, Waves, Electromagnetism </li>
 
 <li>PHYS 1054 General Physics II: Computational Physics & Data Analysis </li>
 
-<li><a href="/pages/physics-2053.html">PHYS 2053</a> Fluids and Thermodynamics </li>
+<li>PHYS 2053</a> Fluids and Thermodynamics </li>
 
-<li><a href="/pages/physics-2750.html">PHYS 2750</a> Modern Physics </li>
+<li>PHYS 2750</a> Modern Physics </li>
 
-<li><a href="/pages/physics-3000.html">PHYS 3000</a> Physics of Device Materials </li>
+<li>PHYS 3000</a> Physics of Device Materials </li>
 
-<li><a href="/pages/physics-3400.html">PHYS 3400</a> Thermodynamics </li>
+<li>PHYS 3400</a> Thermodynamics </li>
 
-<li><a href="/pages/physics-3900.html">PHYS 3900</a> Experimental Physics I </li>
+<li>PHYS 3900</a> Experimental Physics I </li>
 
-<li><a href="/pages/physics-4000.html">PHYS 4000</a> Introduction to Solid State Physics </li>
+<li>PHYS 4000</a> Introduction to Solid State Physics </li>
 
-<li><a href="/pages/physics-4400.html">PHYS 4400</a> Statistical Mechanics </li>
+<li>PHYS 4400</a> Statistical Mechanics </li>
 
-<li><a href="/pages/physics-490ab.html">PHYS 490A/B</a> Honours Physics Thesis </li>
+<li>PHYS 490A/B</a> Honours Physics Thesis </li>
 
-<li><a href="/pages/physics-6000.html">PHYS 6000</a> Condensed Matter Physics I </li>
+<li>PHYS 6000</a> Condensed Matter Physics I </li>
 
 <h2>Methods</h2>
 
