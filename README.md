@@ -9,7 +9,7 @@
 4. Open the terminal in VS Code.
 
 5. Run the following commands in the terminal:
-   pelican content
+   pelican content and 
    pelican --listen
 
 6. Copy and paste the host server URL into your web browser to view the webpages.
