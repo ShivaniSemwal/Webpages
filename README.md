@@ -12,5 +12,5 @@
    pelican content
    pelican --listen
 
-6. Copy and paste the host server URL into your web browser to view the Pelican site.
+6. Copy and paste the host server URL into your web browser to view the webpages.
 
