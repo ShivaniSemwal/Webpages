@@ -1,4 +1,3 @@
-AUTHOR = 'SS'
 SITENAME = 'Dr. Kristin Poduska'
 SITEURL = ""
 
