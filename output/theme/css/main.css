@@ -28,7 +28,7 @@ body {
 }
 
 /* Headings */
-h1 {font-size: 2em }
+h1 {font-size: 5em }
 h2 {font-size: 1.571em}	/* 22px */
 h3 {font-size: 1.429em}	/* 20px */
 h4 {font-size: 1.286em}	/* 18px */
@@ -195,7 +195,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		text-shadow: none;
 	}
 
-	#banner h1 strong {font-size: 0.36em; font-weight: normal;}
+	#banner h1 strong {font-size: 1.36em; font-weight: normal;}
 
 	/* Main Nav */
 	#banner nav {
