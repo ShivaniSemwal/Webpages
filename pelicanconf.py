@@ -3,7 +3,7 @@ SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'America/St_Johns'
+#TIMEZONE = 'America/St_Johns'
 
 DEFAULT_LANG = 'English'
 
